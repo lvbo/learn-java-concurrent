@@ -1,4 +1,4 @@
-package io.github.lvbo.learn.java.concurrent.deadlock;
+package io.github.lvbo.learn.java.concurrent.deadlock.allocator;
 
 import java.util.ArrayList;
 import java.util.List;
